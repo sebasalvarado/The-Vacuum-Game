@@ -16,4 +16,4 @@ player 2 moves around with the following keys: i(up), j(left), k(down), l(right)
 Contributing: 
 
 Fork this repo and help me to build a better UI for this backend game. I want to make this game better and more compelling to new users!
-Waiting for your grat commits!
+Waiting for your great commits!
